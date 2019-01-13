@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "1036919959143",
+    "firebase_url": "https://ingintau-22f72.firebaseio.com",
+    "project_id": "ingintau-22f72",
+    "storage_bucket": "ingintau-22f72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036919959143:android:55b93a28afa5584f",
+        "android_client_info": {
+          "package_name": "com.example.scantext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036919959143-j3o43ahignvbcqc4cp0cm2cbo1s4aafj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYqddEY1DKrXvR1xgEcsT9X0DYlzktG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036919959143:android:69a089918122398a",
+        "android_client_info": {
+          "package_name": "com.fj.pengentau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036919959143-j3o43ahignvbcqc4cp0cm2cbo1s4aafj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYqddEY1DKrXvR1xgEcsT9X0DYlzktG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036919959143:android:97bfa79cd6d90c79",
+        "android_client_info": {
+          "package_name": "com.naufalprakoso.ingintau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036919959143-k1lrl6j2an8jgu207m9ijojn8iv2hv48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naufalprakoso.ingintau",
+            "certificate_hash": "68f8b3fb9d96dc96a9a7a4a67b6db3f7b5bd8860"
+          }
+        },
+        {
+          "client_id": "1036919959143-j3o43ahignvbcqc4cp0cm2cbo1s4aafj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTYqddEY1DKrXvR1xgEcsT9X0DYlzktG8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036919959143-j3o43ahignvbcqc4cp0cm2cbo1s4aafj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

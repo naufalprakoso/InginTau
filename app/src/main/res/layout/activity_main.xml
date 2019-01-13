@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#FFFFFF"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="64dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/iv_image"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:layout_width="match_parent" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/tv_text"
+                android:layout_margin="16dp"
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:text="Click 'Choose Image' Button\nand Get text from an image!\n\nCopyright by Naufal Prakoso, Farhan Adji, Helmi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </ScrollView>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/bt_choose_image"
+        android:layout_width="match_parent"
+        android:layout_margin="8dp"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content"
+        android:text="CHOOSE IMAGE"
+        android:backgroundTint="@color/colorPrimary"
+        android:textColor="#FFFFFF"/>
+
+</RelativeLayout>

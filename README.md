@@ -1,4 +1,4 @@
-# SmartTextExtractor_Android
-Text Recognition Android App using ML Kit (Firebase)
+# InginTau
+Firebase Text Recognition to detect Indonesian slank words
 
-- Uses ML Kit from Firebase with Text Recognition / QR Code Models to scan using Mobile Camera
+For Artificial Intelligence Assignment

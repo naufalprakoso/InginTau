@@ -29,7 +29,7 @@
                 android:layout_margin="16dp"
                 android:textAlignment="center"
                 android:textColor="#000000"
-                android:text="Click 'Choose Image' Button\nand Get text from an image!\n\nCopyright by Naufal Prakoso, Farhan Adji, Helmi"
+                android:text="Click 'Choose Image' Button\nand Get text from an image!\n\nCopyright by Naufal Prakoso"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
 
@@ -38,7 +38,7 @@
     </LinearLayout>
 
     <Button
-        android:id="@+id/bt_choose_image"
+        android:id="@+id/btn_choose_image"
         android:layout_width="match_parent"
         android:layout_margin="8dp"
         android:layout_alignParentBottom="true"
